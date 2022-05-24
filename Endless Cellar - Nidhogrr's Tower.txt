@@ -1,0 +1,551 @@
+Endless Cellar
+Jump to navigationJump to search
+To increase the interest of players to Endless Tower & Endless Cellar, they have been updated to Nidhogrr's and Satan Towers. A fully instanced custom dungeons containing all monsters, mini bosses, and mvps (with a few exceptions) up to episode 13.3. Its a total of 73 floors with mvps being every 4 floors, and on the last floor there are a number of mvp fights in a row including 2 event mvps. Both copies have 2 bonus floors, including the most difficult mvp games.
+
+Update: Now you can't be moved to SavePoint when got disconnected or char-selected inside some instances (Endless Tower). (This works only while current instance exists and you're in party that holds it)
+
+
+**Nidhogrr's Tower**
+
+**Floor 1:**
+```cs
+"Fabre",1007,15
+"Picky",1049,15
+"Roda Frog",1012,25
+```	 
+**Floor 2:**
+```cs
+"Willow",1010,10
+"Spore",1014,15
+"Wolf",1013,15
+"Creamy",1018,5
+```
+**Floor 3:**
+```cs
+"Poison Spore",1077,20
+"Peco Peco",1019,20
+"Muka",1055,15
+```
+**Floor 4:**
+```cs
+"Greatest General",1277,25
+"Peco Peco Egg",1047,20
+"Eddga",1115,1
+```
+**Floor 5:**
+```cs
+"Seal",1317,30
+"Sea Otter",1323,25
+"Cornutus",1067,10
+```
+**Floor 6:**
+```cs
+"Galapago",1391,15
+"Aster",1266,20
+"Ambernite",1094,20
+```
+**Floor 7:**
+```cs
+"Marc",1045,10
+"Snowier",1775,10
+"Marine Sphere",1142,20
+"Tri Joint",1279,5
+```
+**Floor 8:**
+```cs
+"Garm Baby",1515,15
+"Leib Olmai",1306,3
+"Garm",1252,1
+```
+**Floor 9:**
+```cs
+"Myst Case",1249,30
+"Mimic",1191,20
+"Ancient Mimic",1699,12
+```
+**Floor 10:**
+```cs
+"Orc Skeleton",1152,10
+"Pirate Skeleton",1071,15
+"Skeleton",1076,20
+```
+**Floor 11:**
+```cs
+"Anopheles",1627,15
+"Drainliar",1111,15
+"Explosion",1383,15
+"Familiar",1005,15
+```
+**Floor 12:**
+```cs
+"Ygnizem",1658,1
+"Egnigem Cenia",1652,15
+"Errende Ebecee",1655,15
+"Kavach Icarus",1656,15
+"Laurell Weinder",1657,15
+"Wickebe Tres",1653,15
+"Armeyer Dinze",1654,15
+"Doppelganger",1046,1
+```
+**Floor 13:**
+```cs
+"Dragon Egg",1721,10
+"Peco Peco Egg",1047,10
+"Pupa",1008,10
+"Thief Bug Egg",1048,10
+```
+**Floor 14:**
+```cs
+"Cruiser",1248,20
+"Firelock Soldier",1403,20
+```
+**Floor 15:**
+```cs
+"Bongun",1188,15
+"Hyegun",1512,20
+"Munak",1026,15
+```
+**Floor 16:**
+```cs
+"Giant Hornet",1303,30
+"Luciola Vespa",1994,5
+"Hornet",1004,25 
+"Mistress",1059,1
+```
+**Floor 17:**
+```cs
+"Cramp",1209,25
+"Tarou",1175,15
+```
+**Floor 18:**
+```cs
+"Dryad",1493,15
+"Hermit Plant",1413,15
+"Parasite",1500,15
+"Rafflesia",1162,15
+```
+**Floor 19:**
+```cs
+"Deviace",1108,15
+"Megalodon",1064,15
+"Swordfish",1069,10
+```
+**Floor 20:**
+```cs
+"Deniro",1105,20
+"Piere",1160,20
+"Andre",1095,20
+"Ant Egg",1097,5
+"Vitata",1176,5
+"Maya",1147,1
+"Phreeoni",1159,1	
+```
+**Floor 21:**
+```cs
+"Archer Skeleton",1016,10
+"Gargoyle",1253,10
+"Orc Archer",1189,10
+"Raydric Archer",1276,10
+"Bow Master",1830,4
+```
+**Floor 22:**
+```cs
+"Strouf",1065,15
+"Baphomet Jr.",1101,15
+"Merman",1264,15
+"Hill Wind",1629,5
+```
+**Floor 23:**
+```cs
+"Zenorc",1177,20
+"Orc Zombie",1153,20
+"Tamruan",1584,20
+```
+**Floor 24:**
+```cs
+"Zombie Master",1298,2
+"Ragged Zombie",1865,5 
+"Ghoul",1036,15
+"Zombie",1015,10
+"Dracula",1389,1
+"Dark Lord",1272,1 
+```
+**Floor 25:**
+```cs
+"Penomena",1216,15
+"Marse",1144,10
+"Obeaune",1044,10
+"Swordfish",1069,15
+"Hydra",1068,5
+```
+**Floor 26:**
+```cs
+"Carat",1267,15
+"Joker",1131,15
+"Jakk",1130,15
+```
+**Floor 27:**
+```cs
+"Anolian",1206,30
+"Alligator",1271,10
+"Green Iguana",1687,15
+```
+**Floor 28:**
+```cs
+"Side Winder",1037,15
+"Isis",1029,20
+"Boa",1025,15
+"Naga",1993,5	
+"Anacondaq",1030,5
+"Evil Snake Lord",1418,1
+```
+**Floor 29:**
+```cs
+"Live Peach Tree",1410,15
+"Gibbet",1503,10
+"Stone Shooter",1495,10
+"Wooden Golem",1497,10
+"Elder Willow",1033,5
+```
+**Floor 30:**
+```cs
+"Arclouse",1194,30
+"Neraid",1255,20
+"Pest",1256,15
+"Kukre",1070,10
+```
+**Floor 31:**
+```cs
+"Dark Frame",1260,20
+"Hylozoist",1510,15
+"The Paper",1375,10
+"Whisper",1179,10
+"Giant Whisper",1186,3	
+"Lude",1509,5
+"Quve",1508,5
+```
+**Floor 32:**
+```cs
+"Evil Nymph",1416,25
+"Bacsojin",1518,6
+"Green Maiden",1631,5
+"White Lady",1630,1
+```
+**Floor 33:**
+```cs
+"Death Word",1698,25
+"Rideword",1195,25
+```
+**Floor 34:**
+```cs
+"Grizzly",1381,20
+"Leib Olmai",1306,7
+"Bigfoot",1060,5
+"Sasquatch",1243,10
+"Zipper Bear",1417,8
+```
+**Floor 35:**
+```cs
+"Phendark",1202,20
+"Rybio",1201,10
+"Zombie Prisoner",1197,10
+"Injustice",1257,15
+"Skeleton Prisoner",1196,10
+```
+**Floor 36:**
+```cs
+"Orc Baby",1686,10
+"Orc Archer",1189,10
+"High Orc",1213,15
+"Orc Warrior",1023,10
+"Orc Hero",1087,1
+"Orc Lord",1190,1
+```
+**Floor 37:**
+```cs
+"Dragon Tail",1321,30
+"Kapha",1406,30
+"Spring Rabbit",1322,10 
+```
+**Floor 38:**
+```cs
+"Deleter",1384,20
+"Deleter",1385,10
+"Petite",1156,10
+"Petite",1155,10
+"Hydro",1756,3	
+```
+**Floor 39:**
+```cs
+"Ragged Zombie",1865,20
+"Zombie Master",1298,10
+"Orc Zombie",1153,5
+"Zombie Prisoner",1197,10
+"Zombie",1015,5
+```
+**Floor 40:**
+```cs
+"Baphomet Jr.",1101,15
+"Diabolic",1382,5
+"Deviruchi",1109,10
+"Whisper",1179,20
+"Baphomet",1039,1
+```
+**Floor 41:**
+```cs
+"Sleeper",1386,20
+"Increase Soil",1516,15
+"Sting",1207,10
+"Hode",1127,10
+"Sandman",1165,10
+```
+**Floor 42:**
+```cs
+"Matyr",1146,10
+"Verit",1032,15
+"Minorous",1149,20
+"Arclouze",1194,10
+"Anubis",1098,10
+```
+**Floor 43:**
+```cs
+"Ancient Mimic",1699,15
+"Ancient Mummy",1297,10
+"Ancient Worm",1305,10
+```
+**Floor 44:**
+```cs
+"Anubis",1098,15
+"Pasana",1154,10
+"Mimic",1191,10
+"Minorous",1149,10   
+"Amon Ra",1511,1
+```
+**Floor 45:**
+```cs
+"Harpy",1376,20
+"Bloody Butterfly",1408,15
+"Gargoyle",1253,10
+"Grand Peco",1369,10
+"Hill Wind",1680,5
+"Hill Wind",1629,5
+```
+**Floor 46:**
+```cs
+"Shinobi",1401,30
+"Assaulter",1315,25
+```
+**Floor 47:**
+```cs
+"Agav",1769,20
+"Waste Stove",1617,10
+"Aunoe",1796,15
+"Fanat",1797,15
+"Hodremlin",1773,15
+```
+**Floor 48:**
+```cs
+"Venomous",1621,15
+"Noxious",1620,5
+"Isilla",1772,10
+"Echio",1770,10
+"RSX-0806",1623,1
+"Gloom Under Night",1768,1
+```
+**Floor 49:**
+```cs
+"Zombie Slaughter",1864,20
+"Hell Poodle",1866,20
+"Necromancer",1870,5
+```
+**Floor 50:**
+```cs
+"Beholder",1633,25
+"Beholder Master",1975,15
+"Seeker",1774,20 
+```
+**Floor 51:**
+```cs
+"Chepet",1250,15
+"Marionette",1143,15
+"Miyabi Doll",1404,15
+```
+**Floor 52:**
+```cs
+"Aliot",1736,10
+"Alicel",1735,20
+"Aliza",1737,5
+"Alice",1275,5
+"Constant",1738,20
+"Kiel D-01",1734,1
+```
+**Floor 53:**
+```cs
+"Cecil Damon",1638,20
+"Sniper Cecil lvl 99"1644,5
+```
+**Floor 54:**
+```cs
+"Lord Knight Seyren",1640,5
+"Seyren Windsor",1634,20
+```
+**Floor 55:**
+```cs
+"Sword Guardian",1829,10
+"Bradium Golem",2024,15
+```		
+**Floor 56:**
+```cs
+"Tatacho",1986,20
+"Hillslion",1989,10
+"Hardrock Mammoth",1990,1
+```
+**Floor 57:**
+```cs
+"Incubus",1374,20
+"Nightmare Terror",1379,20
+"Succubus",1370,20
+"Nightmare",1061,15
+```
+**Floor 58:**
+```cs
+"Banshee",1867,30
+"Evil Druid",1117,10
+"Wind Ghost",1263,15
+"Wraith Dead",1291,15
+"Wraith",1192,15
+```
+**Floor 59:**
+```cs
+"Raydric",1163,20
+"Bloody Murderer",1507,15
+"Dullahan",1504,15
+"Sword Guardian",1829,5
+```
+**Floor 60:**
+```cs
+"Necromancer",1870,15   
+"Fallen Bishop Hibram",1871,1
+```
+**Floor 61:**
+```cs
+"Freezer",1319,30
+"Gazeti",1778,20
+"Siroma",1776,35
+"Ice Titan",1777,10
+```
+**Floor 62:**
+```cs
+"Iceicle",1789,100
+```
+**Floor 63:**
+```cs
+"Snowier",1775,30
+"Ice Titan",1777,20
+```
+**Floor 64:**
+```cs
+"Iceicle",1789,10
+"Gazeti",1778,20
+"Marin",1242,20
+"Ktullanux",1779,1
+```
+**Floor 65:**
+```cs
+"Rhyncho",2020,20
+"Phylla",2021,20
+"Dark Shadow",2023,20
+```
+**Floor 66:**
+```cs
+"Hillslion",1989,25
+"Tendril Lion",1991,3
+```
+**Floor 67:**
+```cs
+"Tatacho",1986,25
+"Hardrock Mammoth",1990,3
+```
+**Floor 68:**
+```cs
+"Tatacho",1986,10
+"Bradium Golem",2024,20
+"Ancient Tree",2019,10
+"Lady Tanee",1688,1
+```
+**Floor 69:**
+```cs
+"Katrinn",1639,10
+"Elder",1377,10
+"Rawrel",1657,20
+"Marduk",1140,10
+"Wind Ghost",1263,10
+```
+**Floor 70:**
+```cs
+"Sword Guardian",1829,15
+"Bow Guardian",1830,15
+```
+**Floor 71:**
+```cs
+"Seyren",1634,15
+"Knight of Abyss",1219,15
+"Bloody Knight",1268,10
+"Wander Man",1208,20
+```
+**Floor 72:**
+```cs
+"Hunter Fly",1035,20
+"Steel Chonchon",1042,5
+"Dragon Fly",1091,10
+"Chonchon",1011,10
+"Beelzebub",1873,1
+```
+**Floor 73:**
+```cs
+"Byorgue",1839,16
+```
+**Floor 74:**
+```cs
+"High Wizard Katrinn",1651,1
+"Whitesmith Harword",1648,1
+"Sniper Shecil",1650,1
+```
+**Floor 75:**
+```cs
+"Incarnation of Morroc",1918,7
+"Incarnation of Morroc",1919,7
+"Incarnation of Morroc",1920,7
+"Incarnation of Morroc",1921,7
+```
+**Floor 76**
+```cs
+"Entweihen Crothen",1957,1
+```
+**Floor 77:**
+```cs
+"Poring",1002,1
+
+[Primer Mvp:]
+"Harword",1636,10
+"Armeyer",1654,15
+"Whitesmith Harword",1648,1
+
+[Segundo Mvp:]
+"Shecil",1638,10
+"Kavac",1656,15
+"Sniper Cecil",1650,1
+
+[Tercer Mvp:]
+"Katrinn",1639,10
+"Rawrel",1657,15
+"High Wizard Katrinn",1651,1
+
+[Cuarto Mvp:]
+"Orc Zombie",1153,30
+"Orc Skeleton",1152,30
+"Nacht Sieger",1956,1
+
+[End]
+"Nidhoggr's Shadow",2022,1
+```

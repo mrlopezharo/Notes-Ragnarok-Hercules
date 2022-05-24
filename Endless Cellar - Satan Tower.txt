@@ -1,0 +1,551 @@
+**Floor 1:**
+```cs
+"Metaling",1613,15
+"Drops",1113,5
+"Marin",1242,5
+"Poporing",1031,5
+"Poring",1002,5
+```
+**Floor 2:**
+```cs
+"Desert Wolf",1106,20
+"Desert Wolf Baby",1107,10
+"Vagabond Wolf",1092,5
+"Wolf",1013,20
+```
+**Floor 3:**
+```cs
+"Argiope",1099,15
+"Argos",1100,5
+"Hornet",1004,5
+"Mantis",1139,20
+"Rocker",1052,5
+"Vocal",1088,1
+"Killer Mantis",1294,5
+```
+**Floor 4:**
+```cs
+"Thief Bug Female",1053,15
+"Thief Bug Male",1054,15
+"Thief Bug",1051,15
+"Thief Bug Egg",1048,5
+"Golden Thief Bug",1086,1
+"Maya",1147,1
+```
+**Floor 5:**
+```cs
+"Scorpion",1001,20
+"Condor",1009,20
+"Gig",1387,20
+```
+**Floor 6:**
+```cs
+"Metaller",1058,20
+"Magnolia",1138,20
+"Sandman",1165,20
+```
+**Floor 7:**
+```cs
+"Sandman",1165,10
+"Frilldora",1119,20
+"Hode",1127,20
+```
+**Floor 8:**
+```cs
+"Andre",1095,15
+"Deniro",1105,15
+"Piere",1160,15
+"Ant Egg",1097,5
+"Phreeoni",1159,1
+"Hode",1127,20
+```
+**Floor 9:**
+```cs
+"Vadon",1066,10
+"Cornutus",1067,10
+"Marina",1141,10
+"Plankton",1161,10
+"Kukre",1070,15
+```
+**Floor 10:**
+```cs
+"Drosera",1781,15
+"Flora",1118,15
+"Hydra",1068,15
+"Muscipular",1780,15
+"Mandragora",1020,15
+"Rafflesia",1162,15
+```
+**Floor 11:**
+```cs
+"Cookie",1265,15
+"Christmas Cookie",1246,15
+"Christmas Orc",1588,15
+"Christmas Goblin",1245,15
+"Christmas Jakk",1244,15
+```
+**Floor 12:**
+```cs
+"Nine Tail",1180,15
+"Cruiser",1248,10
+"Myst Case",1249,5
+"Cat o Nine Tails",1307,10
+"Moonlight Flower",1150,1
+"Knight of Windstorm",1251,1
+```
+**Floor 13:**
+```cs
+"Quve",1508,20
+"Lude",1509,20
+"Gibbet",1503,15
+"Disguise",1506,15
+```
+**Floor 14:**
+```cs
+"Loli Ruri",1505,20
+"Hylozoist",1510,10
+"Dullahan",1504,10
+"Bloody Murderer",1507,10
+```
+**Floor 15:**
+```cs
+"Banshee",1867,30
+"Evil Druid",1117,10
+"Wind Ghost",1263,10
+"Wraith Dead",1291,10
+"Mini Demon",1292,15
+```
+**Floor 16:**
+```cs
+"Disguise",1506,30
+"Dark Priest",1198,20
+"Lord of Death",1373,1
+```
+**Floor 17:**
+```cs
+"Roda Frog",1012,20
+"Thara Frog",1034,20
+"Poison Toad",1402,15
+"Toad",1089,5
+```
+**Floor 18:**
+```cs
+"Megalith",1274,20
+"Steam Goblin",1280,20
+"Rotar Zairo",1392,20
+"Medusa",1148,10
+```
+**Floor 19:**
+```cs
+"Stalactic Golem",1278,20
+"Lava Golem",1366,15
+"Golem",1040,10
+"Wooden Golem",1497,15
+```
+**Floor 20:**
+```cs
+"Panzer Goblin",1308,40
+"Tao Gunka",1583,1
+```
+**Floor 21:**
+```cs
+"Side Winder",1037,40
+"Medusa",1148,10
+"Anacondaq",1030,5
+"Snake",1025,5
+```
+**Floor 22:**
+```cs
+"Mummy",1041,15
+"Minorous",1149,15
+"Majoruros",1310,10
+```
+**Floor 23:**
+```cs
+"Ancient Mimic",1699,25
+"Ancient Mummy",1297,10
+"Ancient Worm",1305,10
+```
+**Floor 24**
+```cs
+"Marduk",1140,10
+"Matyr",1146,5
+"Isis",1029,20
+"Osiris",1038,1
+"Pharaoh",1157,1
+```
+**Floor 25:**
+```cs
+"Gig",1387,20
+"Iron Fist",1212,15
+"Argiope",1099,10
+"Cobalt Mineral",1976,5
+"Mineral",1614,10           
+"Scorpion",1001,15
+```
+**Floor 26:**
+```cs
+"Kobold",1133,15
+"Kobold",1134,15
+"Kobold",1135,15
+"Kobold Leader",1296,3
+```
+**Floor 27:**
+```cs
+"Goblin Archer",1258,30
+"Goblin",1122,10
+"Goblin",1124,10
+"Goblin",1123,10
+"Goblin",1125,10
+"Goblin",1126,10
+"Goblin Leader",1299,2
+```
+**Floor 28:**
+```cs
+"Freezer",1319,15
+"Heater",1318,15
+"Permeter",1314,15
+"Assaulter",1315,15
+"Solider",1316,15
+"Turtle General",1312,1
+```
+**Floor 29:**
+```cs
+"Galion",1783,5
+"Muka",1055,15
+"Breeze",1692,30
+"Roween",1782,30
+```
+**Floor 30:**
+```cs
+"Anopheles",1627,20
+"Hill Wind",1629,15
+"Hill Wind",1680,15
+```
+**Floor 31:**
+```cs
+"Ungoliant",1618,30
+"Caterpillar",1300,25
+"Creamy Fear",1293,5
+"Giant Hornet",1303,5
+"Killer Mantis",1294,5
+```
+**Floor 32:**
+```cs
+"Galion",1783,30
+"Atroce",1785,1
+```
+**Floor 33:**
+```cs
+"Wicked Nymph",1416,15
+"Civil Servant",1513,10
+"Dancing Dragon",1514,10
+"Evil Cloud Hermit",1412,20
+"Li Me Mang Ryang",1517,10
+```
+**Floor 34:**
+```cs
+"Miyabi Ningyo",1404,10
+"Shinobi",1401,15
+"Tengu",1405,10
+"Antique Firelock",1403,15
+"Karakasa",1400,5
+```
+**Floor 35:**
+```cs
+"Curupira",2074,35
+"Dokebi",1491,10
+"Savage",1166,10
+"Am Mut",1301,10
+```
+**Floor 36:**
+```cs
+"Shinobi",1401,15
+"Tengu",1405,15
+"Thanatos",1708,1
+"Incantation Samurai",1492,1
+```
+**Floor 37:**
+```cs
+"Alarm",1193,30
+"Clock",1269,15
+"Punk",1199,15
+```
+**Floor 38:**
+```cs
+"Requiem",1164,25
+"Zerom",1178,25
+"Skeleton General",1290,10
+"Gullinbursti",1311,15
+```
+**Floor 39:**
+```cs
+"Wood Goblin",1880,20
+"Les",1881,20
+"Mavka",1884,10
+"Mantis",1139,15
+```
+**Floor 40:**
+```cs
+"Baba Yaga",1882,20
+"Uzhas",1883,20
+"Gopinich",1885,1
+```
+**Floor 41:**
+```cs
+"Centipede Larva",1999,50
+"Centipede",1987,30
+"Zombie Master",1298,10
+"Nepenthes",1988,15
+```
+**Floor 42:**
+```cs
+"Safeguard Chief",1981,20
+"Orc Sniper",1982,20
+"Depraved Orc Spirit",1983,20
+"Shaman Cargalache",1984,20
+```
+**Floor 43:**
+```cs
+"Novus",1715,25
+"Novus",1718,25
+"Hydro",1720,2
+```
+**Floor 44:**
+```cs
+"Dragon Egg",1721,10
+"Ferus",1717,10
+"Ferus",1714,10
+"Acidus",1716,10
+"Acidus",1713,10
+"Hydro",1720,1
+"Detale",1719,1
+```
+**Floor 45:**
+```cs
+"Thanatos Odium",1704,10
+"Thanatos Despero",1705,10
+"Thanatos Maero",1706,10
+"Thanatos Dolor",1707,10
+```
+**Floor 46:**
+```cs
+"Jaguar",2072,30
+"Toucan",2073,30
+```
+**Floor 47:**
+```cs
+"Iara",2069,40
+"Piranha",2070,30
+```
+**Floor 48:**
+```cs
+"Headless Mule",2071,30
+"Nightmare",1061,20
+"Nightmare Terror",1379,20
+"Boitata",2068,1
+```
+**Floor 49:**
+```cs
+"Gremlin",1632,30
+"Hodremlin",1773,40
+```
+**Floor 50:**
+```cs
+"Cobalt Mineral",1976,5
+"Heavy Metaling",1977,50
+```
+**Floor 51:**
+```cs
+"Aunoe",1796,25
+"Fanat",1797,25
+```
+**Floor 52:**
+```cs
+"Dimik",1670,10
+"Dimik",1672,10
+"Dimik",1669,10
+"Dimik",1671,10
+"Vesper",1685,1
+```
+**Floor 53:**
+```cs
+"Photon Cannon",1724,10
+"Photon Cannon",1667,10
+"Photon Cannon",1665,10
+"Photon Cannon",1683,10
+"Leaf Cat",1586,25
+"Wild Rose",1261,25
+```
+**Floor 54:**
+```cs
+"Kraben",1587,50
+```
+**Floor 55:**
+```cs
+"Beetle King",1494,20
+"Tamruan",1584,20
+"Chung E",1631,10
+```
+**Floor 56:**
+```cs
+"Bacsojin",1518,20
+"Lady Tanee",1688,1
+```
+**Floor 57:**
+```cs
+"Naga",1993,20
+"Luciola Vespa",1994,30
+"Cornus",1992,10
+"Dark Pinguicula",2015,20
+```
+**Floor 58:**
+```cs
+"Raydric",1163,20
+"Raydric Archer",1276,15
+"Khalitzburg",1132,10
+```
+**Floor 59:**
+```cs
+"Alice",1275,5
+"Alicel",1735,15
+"Aliza",1737,15
+```
+**Floor 60:**
+```cs
+"Constant",1738,30
+"Aliot",1736,10
+```
+**Floor 61:**
+```cs
+"Dark Illusion",1302,20
+"Incubus",1374,15
+"Owl Baron",1295,10
+"Owl Duke",1320,10
+"Succubus",1370,15
+```
+**Floor 62:**
+```cs
+"Skeggiold",1754,20
+"Majoruros",1310,25
+```
+**Floor 63:**
+```cs
+"Valkyrie",1765,10
+"Skeggiold",1754,10
+"Skeggiold",1755,10
+```
+**Floor 64:**
+```cs
+"Retribution",1702,15
+"Fake Angel",1371,20
+"Solace",1703,15
+"Valkyrie Randgris",1751,1
+```
+**Floor 65:**
+```cs
+"Mysteltainn",1203,15
+"Tirfing",1204,10
+"Executioner",1205,15
+"Maya Purple",1289,10
+```
+**Floor 66:**
+```cs
+"Kasa",1833,20
+"Lava Golem",1366,15
+"Salamander",1831,25
+"Gajomart",1309,10
+```
+**Floor 67:**
+```cs
+"Mastering",1090,5
+"Angeling",1096,5
+"Deviling",1582,3
+"Archangeling",1388,10
+"Ghostring",1120,3
+```
+**Floor 68:**
+```cs
+"Salamander",1831,15
+"Kasa",1833,15
+"Ifrit",1832,1
+```
+**Floor 69:**
+```cs
+"Byorgue",1839,20
+```
+**Floor 70:**
+```cs
+"Lord Knight Seyren",1640,5
+"Assassin Cross Eremes",1641,5
+"Whitesmith Harword",1642,5
+"High Priest Magaleta",1643,5
+"Sniper Shecil",1644,5
+"High Wizard Katrinn",1645,5
+```
+**Floor 71:**
+```cs
+"Incarnation of Morroc",1918,7
+"Incarnation of Morroc",1919,7
+"Incarnation of Morroc",1920,7
+"Incarnation of Morroc",1921,7
+```
+**Floor 72:**
+```cs
+"Atroce",1785,1
+"Baphomet",1039,1
+"Boitata",2068,1
+```
+**Floor 73:**
+```cs
+"Seyren",1634,15
+"Knight of Abyss",1219,15
+"Bloody Knight",1268,10
+"Wander Man",1208,20
+```
+**Floor 74:**
+```cs
+"Sword Guardian",1829,7
+"Bow Guardian",1830,7
+"Sword Guardian",1829,7
+"Bow Guardian",1830,7
+```
+**Floor 75:**
+```cs
+"Katrinn",1639,10
+"Elder",1377,10
+"Rawrel",1657,20
+"Marduk",1140,10
+"Wind Ghost",1263,10
+```
+**Floor 76:**
+```cs
+"Entweihen Crothen",1957,1
+```
+**Floor 77:**
+```cs
+"Poring",1002,1
+
+[Primer Mvp:]
+"Lord Knight",1640,10
+"Yngizem",1652,15
+"Lord Knight Seyren",1646,1
+
+[Segundo Mvp:]
+"Magaleta",1637,10
+"Erend",1655,15
+"High Priest Magaleta",1649,1
+
+[Tercer Mvp:]
+"Eremes",1641,10
+"Whikebain",1653,15
+"Assasin Cross Eremes",1647,1
+
+[Cuarto Mvp:]
+"Orc Zombie",1153,30
+"Orc Skeleton",1152,30
+"Nacht Sieger",1956,1
+
+[End]
+"Wounded Morroc",1917,1
+```

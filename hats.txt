@@ -1,0 +1,118 @@
+I Love China                           5423:700
+RWC 2008 Dragon Helm Copper            5453:800
+Large Baphomet Horns                   5518:800
+Gigantic Majestic Goat                 5374:800
+Robo eye                               5325:700
+Blush of Groom                         5800:800
+Choco Donut In Mouth                   5775:700
+Donut In Mouth                         5594:700
+Fish In Mouth                          5403:700
+Gangster Scarf                         5361:700
+Gentleman's Pipe                       5377:700
+Ninja Scroll                           5362:700
+Rainbow Scarf                          5463:700
+Alice Doll                             5127:800
+Amistr Cap                             5766:800
+Angeling Hat                           5132:600
+Chick Hat                              5286:500
+Deviling Hat                           5254:500
+Flapping Angel Wing                    5210:500
+Flying Evil Wing                       5376:700
+Koneko Hat                             5372:700
+Navy Beret                             5773:300
+Parade Hat                             5225:700
+Pink Drooping Cat                      5232:300
+Ramen Hat                              5293:800
+Red Beret                              5580:300
+Soul Ring                              5257:500
+Yellow Ribbon                          5278:800
+Cyclop's Eye                           5135:500
+Small Devil Horns                     18503:800
+Dark Randgris Helm                     5373:600
+
+
+Hats para arreglar
+-----bug-------------------
+5376:700 Flying Evil Wing
+5518:800 Large Baphomet Horns
+5377:700 Gentleman's Pipe
+---------------------------
+
+Hat a modificar--------------------------------------------------------------
+
+Well-Chewed Pencil---ID 5574--------------------------------------------
+
+Descripcion.-
+A popular snack while taking tests.
+DEX + 2
+
+Efecto.-
+DEX + 2
+
+
+
+Item Script.-
+{ bonus bDex,2; },{},{}
+------------------------------------------------------------------------
+
+Bubble Gum In Mouth---ID 5597-------------------------------------------
+
+Descripcion.-
+Reduce 3% damage taken from DemiHuman monster.
+
+Efecto.-
+Reduce 3% damage
+
+Item Script.-
+{ bonus2 bSubRace,RC_DemiHuman,3; bonus2 bSubRace,RC_Player,3; },{},{}
+-------------------------------------------------------------------------
+
+
+Blush of Groom---ID 5800-------------------------------------------------
+
+Descripcion.-
+A blushing impression of a bridegroom.
+Reduces damage from DemiHuman monster by 3%.
+
+Efecto.-
+Reduce 3% damage
+
+Item Script.-
+{ bonus2 bSubRace,RC_DemiHuman,3; bonus2 bSubRace,RC_Player,3; },{},{}
+--------------------------------------------------------------------------
+
+
+
+Flapping Angeling---ID 5334-------------------------------------------------
+
+Descripcion.-
+Angeling hat with the pathetic mind of an Angeling who wants to fly.
+Reduces damage from DemiHuman monster by 10%.
+Impossible to refine this item.
+
+Efecto.-
+Reduce 10% damage
+
+Item Script.-
+{ bonus2 bSubRace,RC_DemiHuman,10; bonus2 bSubRace,RC_Player,10; },{},{}
+--------------------------------------------------------------------------
+
+Small Devil Horns id : 18503-----------------
+
+descripcion:
+...
+
+MaxHP+ 5%, MaxSP + 5%.
+
+defensa: 1
+
+Location:Middle
+
+-----------------------------------------------------------
+
+
+
+
+Hats custome
+
+35119:900,35116:1000,35003:400,35004:400,35006:400,35007:400,35008:400,35009:400,35010:400,35011:400,35012:400,35013:500,35014:400,35016:400,35017:400,35018:400,35019:400,35020:400,35021:400,35022:400,35023:500,35024:400,35027:400,35028:400,35029:400,35030:400,35031:400,35032:400,35034:400,35035:400,35036:500,35037:400,35038:400,35039:400,35040:400,35041:400,35042:400,35043:400,35044:400,35045:400,35046:400,35047:400,35048:400,35049:400,35051:400,35055:400,35056:400,35058:400,35059:400,35060:400,35061:400,35062:400,35063:400,35064:500,35065:400,35067:500,35068:400,35069:400,35070:400,35071:400,35072:400,35073:500,35075:400,35076:400,35078:400,35079:400,35080:400,35081:400,35082:400,35083:400,35084:400,35085:500,35086:400,35087:400,35089:400,35090:400,35091:400,35092:400,35093:400,35094:400,35095:400,35096:500,35097:400,35099:500,35101:400,35102:400,35103:400,35104:400,35105:400,35106:400,35107:400,35108:400,35109:400,35111:400,35112:400
