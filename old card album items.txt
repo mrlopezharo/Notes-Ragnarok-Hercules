@@ -1,0 +1,392 @@
+**Drop de Old Card Album**
+**~A**
+```css
+Agav Card | id:4409	
+Alarm Card | id:4244	
+Alicel Card | id:4401	
+Aliza Card | id:4400
+Alligator Card | id:4252
+Ambernite Card | id:4032	
+Anacondaq Card | id:4062
+Ancient Mimic Card | id:4387	
+Ancient Mummy Card | id:4248
+Ancient Worm Card | id:4249
+Andre Card | id:4043
+Andre Egg Card | id:4013	
+Anolian Card | id:4234
+Anopheles Card | id:4344	
+Antonio Card | id:4243
+Apocalips Card | id:4242	
+Archdam Card | id:4371
+Archer Skeleton Card | id:4094	
+Arclouse Card | id:4240
+Argiope Card | id:4114	
+Argos Card | id:4075
+Armeyer Dinze Card | id:4347
+Assulter Card | id:4246
+Aster Card | id:4247
+```	
+**~B**
+```css
+Baby Leopard Card | id:4233
+Banshee Card | id:4438
+Baphomet jr. Card | id:4129	
+Baroness of Retribution Card | id:4391
+Bathory Card | id:4119	
+Beetle King Card | id:4307
+Beholder Card | id:4356	
+Bigfoot Card | id:4074
+Blazzer Card | id:4215	
+Bloody Butterfly Card | id:4327
+Bloody Murderer Card | id:4214	
+Blue Acidus Card | id:4379
+Bongun Card | id:4212	
+Breeze Card | id:4390	
+Brilight Card | id:4213
+```	
+**~C**
+```css
+Caramel Card | id:4063	
+Carat Card | id:4288	
+Caterpillar Card | id:4289
+Chonchon Card | id:4009	
+Clock Card | id:4299	
+Cloud Hermit Card | id:4262
+Condor Card | id:4015
+Cookie Card | id:4293	
+Cookie Christmas Card | id:4235
+Cornutus Card | id:4061	
+Crab Card | id:4153
+Cramp Card | id:4296	
+Creamy Fear Card | id:4298
+Cruiser Card | id:4297
+```
+**~D**
+```css
+Demon Pungus Card | id:4173	
+Desert Wolf Babe Card | id:4023
+Desert Wolf Card | id:4082	
+Deviace Card | id:4125
+Deviruchi Card | id:4122
+Diabolic Card | id:4182
+Dimik Card | id:4370
+Disguise Card | id:4181	
+Dokebi Card | id:4098
+Dragon Egg Card | id:4385	
+Dragon Tail Card | id:4178
+Drainliar Card | id:4069	
+Driller Card | id:4180
+Drops Card | id:4004	
+Drosera Card | id:4421
+Dryad Card | id:4177	
+Dullahan Card | id:4176
+Dumpling Child Card | id:4154	
+Dustiness Card | id:4056
+```
+**~E**
+```css
+Earth Deleter Card | id:4279	
+Earth Petite Card | id:4118
+Echio Card | id:4410	
+Eggyra Card | id:4070
+Egnigem Cenia Card | id:4346	
+Elder Card | id:4251
+Elder Willow Card | id:4052	
+Enchanted Peach Tree Card | id:4217	
+Errende Ebecee Card | id:4349
+Evil Druid Card | id:4141	
+Evil Nymph Card | id:4258
+Explosion Card | id:4267
+```	
+**~F**
+```css
+Fabre Card | id:4002	
+False Angel Card | id:4316
+Familiar Card | id:4020	
+Female Thief Bug Card | id:4026
+Firelock Soldier Card | id:4160	
+Flame Skull Card | id:4439
+Flora Card | id:4080	
+Frilldora Card | id:4088
+Freezer Card | id:4319	
+Frus Card | id:4405
+```
+**~G**
+```css
+Gajomart Card | id:4151	
+Galapago Card | id:4152
+Galion Card | id:4423	
+Gargoyle Card | id:4149
+Gazeti Card | id:4418	
+Geographer Card | id:4280	
+Ghoul Card | id:4110
+Giant Hornet Card | id:4271	
+Giant Spider Card | id:4270
+Gibbet Card | id:4278	
+Giearth Card | id:4087
+Gig Card | id:4165	
+Goat Card | id:4150
+Goblin Card | id:4060	
+Goblin Archer Card | id:4157
+Goblin Steamrider Card | id:4156	
+Gold Acidus Card | id:4378
+Golem Card | id:4072	
+Grand Peco Card | id:4161
+Greatest General Card | id:4283	
+Green Ferus Card | id:4381	
+Gremlin Card | id:4355
+Grizzly Card | id:4162	
+Grove Card | id:4377
+Gullinbursti Card | id:4164
+```	
+**~H**
+```css
+Harpy Card | id:4325	
+Hatii Babe Card | id:4323
+Heater Card | id:4331	
+Hell Poodle Card | id:4437
+Hermit Plant Card | id:4232	
+High Orc Card | id:4322
+Hill Wind Card | id:4345
+Hode Card | id:4081
+Hodremlin Card | id:4413	
+Holden Card | id:4343
+Horn Card | id:4045
+Hornet Card | id:4019
+Horong Card | id:4103	
+Hunter Fly Card | id:4115
+Hydra Card | id:4035
+Hylozoist Card | id:4321
+```
+**~I**
+```css
+Ice Titan Card | id:4417	
+Incubus Card | id:4269	
+Injustice Card | id:4268
+Isilla Card | id:4412
+Isis Card | id:4116
+```	
+**~J**
+```css
+Jakk Card | id:4109
+Jing Guai Card | id:4265
+```
+**~K**
+```css
+Kaho Card | id:4065	
+Kapha Card | id:4287
+Karakasa Card | id:4286	
+Kasa Card | id:4431
+Kavach Icarus Card | id:4351
+Khalitzburg Card | id:4136	
+Knocker Card | id:4434	
+Kobold Card | id:4091
+Kobold Archer Card | id:4292	
+Kraben Card | id:4295
+Kukre Card | id:4027
+```	
+**~L**
+```css
+Lady Solace Card | id:4394	
+Laurell Weinder Card | id:4350
+Lava Golem Card | id:4184	
+Leaf Cat Card | id:4195
+Loli Ruri Card | id:4191
+Lude Card | id:4193	
+Lunatic Card | id:4006
+```
+**~M**
+```css
+Magmaring Card | id:4432
+Magnolia Card | id:4076	
+Majoruros Card | id:4201
+Male Thief Bug Card | id:4050	
+Mandragora Card | id:4030
+Mantis Card | id:4079	
+Marc Card | id:4105
+Marduk Card | id:4112	
+Marin Card | id:4196
+Marina Card | id:4055	
+Marine Sphere Card | id:4084
+Marionette Card | id:4113	
+Marse Card | id:4095
+Martin Card | id:4046	
+Matyr Card | id:4097
+Megalodon Card | id:4067	
+Megalith Card | id:4200
+Merman Card | id:4199	
+Metaling Card | id:4341
+Metaller Card | id:4057	
+Mi Gao Card | id:4231
+Mimic Card | id:4205	
+Mineral Card | id:4339
+Mistress of Shelter Card | id:4393
+Miyabi Doll Card | id:4208	
+Muka Card | id:4036
+Mummy Card | id:4106	
+Munak Card | id:4090
+Muscipular Card	| id:4420
+Myst Card | id:4108
+Mystcase Card | id:4206	
+```
+**~N**
+```css
+Nereid Card | id:4167
+Nightmare Card | id:4127	
+Nightmare Terror Card | id:4166
+Nine Tail Card | id:4159	
+Noxious Card | id:4334
+```
+**~O**
+```css
+Obeaune Card | id:4093
+Obsidian Card | id:4338
+Orc Archer Card | id:4256
+Orc Baby Card | id:4375	
+Orc Lady Card | id:4255
+Orc Skeleton Card | id:4085	
+Orc Warrior Card | id:4066
+Orc Zombie Card | id:4071		
+```
+**~P**
+```css
+Panzer Goblin Card | id:4310
+Parasite Card | id:4309
+Pasana Card | id:4099	
+Pecopeco Card | id:4031
+Pecopeco Egg Card | id:4007	
+Penomena Card | id:4314
+Permeter Card | id:4311	
+Pest Card | id:4315
+Phen Card | id:4077
+Phendark Card | id:4329
+Picky Card | id:4008	
+Picky Egg Card | id:4011
+Pirate Skeleton Card | id:4073	
+Pitman Card | id:4335
+Plankton Card | id:4024	
+Plasma Card | id:4389
+Poison Spore Card | id:4048
+Poison Toad Card | id:4175
+Poporing Card | id:4033	
+Porcellio Card | id:4337
+Poring Card | id:4001	
+Punk Card | id:4313
+Pupa Card | id:4003
+```	
+**~Q**
+```css
+Quve Card | id:4294
+```	
+**~R**
+```css
+Rafflesia Card | id:4083	
+Ragged Zombie Card | id:4436
+Raggler Card | id:4186	
+Raydric Card | id:4133
+Raydric Archer Card | id:4187	
+Red Ferus Card | id:4380
+Red Novus Card | id:4383	
+Requiem Card | id:4104
+Remover Card | id:4353	
+Rideword Card | id:4185
+Rocker Card | id:4021	
+Roda Frog Card | id:4014
+Rotar Zairo Card | id:4192	
+Roween Card | id:4422
+Rybio Card | id:4194
+```	
+**~S**
+```css
+Sageworm Card | id:4219
+Sandman Card | id:4101	
+Santa Poring Card | id:4005
+Sasquatch Card | id:4216	
+Savage Card | id:4078
+Savage Babe Card | id:4017	
+Sea-Otter Card | id:4326
+Seal Card | id:4312	
+Seeker Card | id:4414
+Shell Fish Card | id:4273
+Shinobi Card | id:4230	
+Sidewinder Card | id:4117
+Siroma Card | id:4416	
+Scorpion Card | id:4068
+Skeleton Card | id:4025	
+Skeleton Prisoner Card | id:4222	
+Skeleton Worker Card | id:4092
+Skogul Card | id:4404	
+Sky Deleter Card | id:4158
+Sky Petite Card | id:4120	
+Smokie Card | id:4044
+Snake Card | id:4037	
+Snowier Card | id:4415
+Sohee Card | id:4100	
+Solider Card | id:4220
+Soldier Skeleton Card | id:4086	
+Spore Card | id:4022
+Spring Rabbit Card | id:4227	
+Stainer Card | id:4039
+Stalactic Golem Card | id:4223	
+Stapo Card | id:4424
+Steel Chonchon Card | id:4042	
+Stem Worm Card | id:4224
+Sting Card | id:4226	
+Stone Shooter Card | id:4225
+Strouf Card | id:4111	
+Succubus Card | id:4218	
+Swordfish Card | id:4089
+```
+**~T**
+```css
+Tamruan Card | id:4304	
+Tarou Card | id:4028
+Teddy Bear Card | id:4340
+Tengu Card | id:4282
+Thara Frog Card | id:4058	
+Thief Bug Card | id:4016	
+Thief Bug Egg Card | id:4012	
+Tri Joint Card | id:4308
+```
+**~V**
+```css
+Vadon Card | id:4049	
+Vanberk Card | id:4411
+Venatu Card | id:4369	
+Venomous Card | id:4333
+Verit Card | id:4107	
+Violy Card | id:4209
+Vitata Card | id:4053
+```	
+**~W**
+```css
+Wanderer Card | id:4210	
+Waste Stove Card | id:4332
+Whisper Card | id:4102	
+Wild Rose Card | id:4257
+Willow Card | id:4010	
+Wind Ghost Card | id:4264
+Wolf Card | id:4029	
+Wooden Golem Card | id:4259
+Wootan Fighter Card | id:4261	
+Wootan Shooter Card | id:4260
+Wormtail Card | id:4034	
+Wraith Card | id:4190
+Wraith Dead Card | id:4189
+```	
+**~Y**
+```css
+Yao Jun Card | id:4328	
+Yellow Novus Card | id:4382
+Yoyo Card | id:4051
+```	
+**~Z**
+```css
+Zenorc Card | id:4096
+Zerom Card | id:4064	
+Zhu Po Long Card | id:4272
+Zipper Bear Card | id:4281	
+Zombie Card | id:4038	
+Zombie Prisoner Card | id:4275
+Zombie Slaughter Card | id:4435
+```	

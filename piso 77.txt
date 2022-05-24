@@ -1,0 +1,43 @@
+**piso 77**
+
+primer mvp en salir:
+areamonster getarg(1),178,186,203,191,"Whitesmith Harword",1648,1,instance_npcname("NC_Manager")+"::OnMobDead";
+areamonster getarg(1),178,186,203,191,"Howard",1636,10,instance_npcname("NC_Manager")+"::OnMobDead";
+areamonster getarg(1),178,186,203,191,"Armeyer",1654 ,15,instance_npcname("NC_Manager")+"::OnMobDead";
+
+segundo mvp
+areamonster getarg(1),178,186,203,191,"Sniper Cecil",1650,1,instance_npcname("NC_Manager")+"::OnMobDead";
+areamonster getarg(1),178,186,203,191,"Howard",1638,10,instance_npcname("NC_Manager")+"::OnMobDead";
+areamonster getarg(1),178,186,203,191,"Kavac",1656 ,15,instance_npcname("NC_Manager")+"::OnMobDead";
+
+tercer mvp:
+areamonster getarg(1),178,186,203,191,"High Wizard Katrinn",1651,1,instance_npcname("NC_Manager")+"::OnMobDead";
+areamonster getarg(1),178,186,203,191,"Katrinn",1639,10,instance_npcname("NC_Manager")+"::OnMobDead";
+areamonster getarg(1),178,186,203,191,"Rawrel",1657 ,15,instance_npcname("NC_Manager")+"::OnMobDead";
+
+cuarto mvp
+
+monster getarg(1),156,75,"Nacht Sieger",1956,1,instance_npcname("NC_Manager")+"::OnPorDead";
+monster getarg(1),156,75,"Orc Zombie",1153,30,instance_npcname("NC_Manager")+"::OnPorDead";
+monster getarg(1),156,75,"Orc Skeleton",1952,30,instance_npcname("NC_Manager")+"::OnPorDead";
+
+quinto mvp final:
+
+quinto mvp final:
+areamonster getarg(1),364,280,384,280,"Nidhoggr's Shadow",2022,1,instance_npcname("NC_Manager")+"::OnMobDead";
+
+
+======================================================================================================
+
+y quitar el nigg del piso 68 y poner este:
+areamonster getarg(1),364,280,384,280,"Lady Tanee",1688,1,instance_npcname("NC_Manager")+"::OnMobDead";
+=================================================================================
+========================================
+PREMIOS
+old card album id:616     1
+bloody branch id:12103   1
+50 cash point
+50poring coin
+
+(POR PERSONA)
+=======================================

@@ -1,0 +1,39 @@
+**Lista Abracadabra**
+```css
+Osiris | id:1038
+Baphomet | id:1039
+Doppelganger | id:1046
+Mistress | id:1059
+Golden Thief Bug | id:1086
+Orc Hero | id:1087
+Drake | id:1112
+Eddga | id:1115
+Maya | id:1147
+Moonlight Flower | id:1150
+Pharaoh | id:1157
+Phreeoni | id:1159
+Orc Lord | id:1190
+Stormy Knight | id:1251
+Garm | id:1252
+Dark Lord | id:1272
+Turtle General | id:1312
+Lord of the Dead | id:1373
+Arc Angeling | id:1388
+Dracula | id:1389
+Evil Snake Lord | id:1418
+Samurai Specter | id:1492
+Amon Ra | id:1511
+Tao Gunka | id:1583
+RSX-0806 | id:1623
+White Lady | id:1630
+Egnigem Cenia | id:1658
+Vesper | id:1685
+Lady Tanee | id:1688
+Thanatos Phantom | id:1708
+Detardeurus | id:1719
+Kiel D-01 | id:1734
+Gloom Under Night | id:1768
+Ktullanux | id:1779
+Atroce | id:1785
+Gopinich | id:1885
+```
