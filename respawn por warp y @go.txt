@@ -1,0 +1,91 @@
+//respawn warp y respawn @go
+alberta 33,235
+amatsu 114,155
+ayathoya 222,175
+comodo 199,141
+einbeach 172,124
+einbroch 64,195
+gonryun 159,114
+izlude 128,138
+lighthalzen 158,198
+lutie 148,127
+manuk 282,138
+mid-camp 210,283
+morroc 160,87
+moscovia 224,192
+nifleheim 209,171
+payon 173,94
+rachel 130,110
+splendide 201,147
+thor champ 246,68
+umbala 90,153
+veins 216,123
+yuno 152,177
+
+
+//add
+------------------
+@go hugel / @go 11
+hugel kafra 89,141
+------------------
+------------------
+@go izlude / @go 12
+izlude kafra 124,149
+------------------
+------------------
+@go jawai / @go 13
+izlude kafra 240,137
+------------------
+------------------
+@go lighthalzen / @go 14
+------------------
+------------------
+@go louyang / @go 15
+------------------
+------------------
+@go lutie / @go 16
+lutie kafra 141,127
+------------------
+------------------
+@go manuk / @go 17
+manuk kafra 288,144
+------------------
+------------------
+@go mid-camp / @go 18
+mid-camp kafra 210,291
+------------------
+------------------
+@go morroc / @go 19
+------------------
+------------------
+@go moscovia / @go 20
+moscovia move kafra to 223,199
+------------------
+@go niflheim / @go 21
+niflheim move kafra option "save"
+------------------
+------------------
+@go payon / @go 22
+------------------
+------------------
+@go rachel / @go 23
+rachel kafra 121,103
+------------------
+------------------
+@go splendide / @go 24
+splendide kafra 193,151
+------------------
+------------------
+@go thor camp / @go 25
+thor camp kafra 254,72
+thor camp party 243,61
+------------------
+------------------
+@go umbala / @go 26
+------------------
+------------------
+@go veins / @go 27
+------------------
+------------------
+@go yuno / @go 28
+------------------
